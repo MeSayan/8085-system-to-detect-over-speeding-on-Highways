@@ -13,3 +13,8 @@ Once the second interrupt is recieved, the microcontroller decides the time diff
 modules is fixed and known. Dividing this distance by the time, will give us the speed with which an object moved.
 
 When the object overspeed, an indicator is shown on the LCD module, which also displays the speed of the object
+
+### Installation
+* Compile the source code given into an hex file, using Keil UVision
+* Upload the hex code, into Proteus AT89S52 module and click simulation
+
